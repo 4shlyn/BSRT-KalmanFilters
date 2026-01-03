@@ -22,7 +22,7 @@ To support this, the repository is intentionally structured in two stages:
 </p>
 
 <p align="center">
-  <em>Launch Canada 2025 simulation testing and debugging flight avionics hardware during sensor integration.</em>
+  <em>Launch Canada 2024 simulation testing and debugging flight avionics hardware during sensor integration; much has improved since!</em>
 </p>
 
 
