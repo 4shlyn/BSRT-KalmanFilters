@@ -18,11 +18,8 @@ To support this, the repository is intentionally structured in two stages:
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/53b2c4cb-4547-4a1f-ba3c-e901974e434f" alt="Bench testing rocket avionics hardware" width="600"/>
-</p>
+  <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/6d5dc373-00ce-4d77-90e9-5a98ff9b409a" />
 
-<p align="center">
-  <em>Launch Canada 2024 simulation testing and debugging flight avionics hardware during sensor integration; much has improved since!</em>
 </p>
 
 
